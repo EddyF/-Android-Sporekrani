@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spor Ekranı</string>
+    <string name="go_home">ANASAYFA</string>
+    <string name="exit">EXIT</string>
+    <string name="loading">Loading..</string>
+</resources>
